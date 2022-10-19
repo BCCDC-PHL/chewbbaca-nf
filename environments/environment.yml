@@ -1,0 +1,9 @@
+name: chewbbaca
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3
+  - chewbbaca=2.8.5
+  - quast=5.0.2
